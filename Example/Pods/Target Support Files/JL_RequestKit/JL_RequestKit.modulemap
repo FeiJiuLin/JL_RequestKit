@@ -1,0 +1,6 @@
+framework module JL_RequestKit {
+  umbrella header "JL_RequestKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

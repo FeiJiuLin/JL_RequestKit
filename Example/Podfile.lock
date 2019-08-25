@@ -1,0 +1,16 @@
+PODS:
+  - JL_RequestKit (0.1.0)
+
+DEPENDENCIES:
+  - JL_RequestKit (from `../`)
+
+EXTERNAL SOURCES:
+  JL_RequestKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JL_RequestKit: 50620f450d58f622a74f45a73f2b2c21b84ca255
+
+PODFILE CHECKSUM: d8373bf32706362305ac9f34c808f931dc26da26
+
+COCOAPODS: 1.7.5

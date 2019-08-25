@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JL_RequestKit'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = 'A short description of JL_RequestKit.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/feijl/JL_RequestKit'
+  s.homepage         = 'https://github.com/FeiJiuLin/JL_RequestKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'feijl' => '2605514380@qq.com' }
-  s.source           = { :git => 'https://github.com/feijl/JL_RequestKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/FeiJiuLin/JL_RequestKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
