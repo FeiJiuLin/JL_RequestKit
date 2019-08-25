@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'JL_RequestKit_Example' do
+  pod 'JL_RequestKit', :path => '../'
+
+  target 'JL_RequestKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
